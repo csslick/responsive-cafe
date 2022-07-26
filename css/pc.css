@@ -1,6 +1,6 @@
 /* pc.css */
 body {
-  background: #ccc;
+  /* background: #ccc; */
 }
 
 .container {
@@ -67,3 +67,20 @@ header nav a {
 #main-visual h1 {
   font-size: 40px;
 }
+
+#about .about {
+  flex: 1;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  padding-left: 30px;
+}
+
+#about .location {
+  flex: 1;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  padding-left: 30px;
+  background: #ddd;
+}
+
+/* 텍스트 여백, 크기 */
